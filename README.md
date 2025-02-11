@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Daesar04.Daesar04"/>
 
-<a href="https://git.io/typing-svg">
+<a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+David+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 

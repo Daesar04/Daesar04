@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Daesar04.Daesar04"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=describanoa.describanoa"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+David+%F0%9F%91%8B" alt="Typing SVG" />
@@ -59,10 +59,10 @@
 </details>
 <details> 
   <summary><h2>📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2></summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=Daesar04&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daesar04&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api?username=describanoa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=describanoa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
       <h2>🖁 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐</h2>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Daesar04&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <img src="https://github-contributor-stats.vercel.app/api?username=describanoa&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <h2>✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆</h2>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
       <hr>
